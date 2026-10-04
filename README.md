@@ -200,23 +200,18 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Dehradun, India**, buildin
 
 ### 🧪 Machine Learning & Data
 
-[![chromatography-training](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=chromatography-training&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/chromatography-training)
+[![chormatography-training](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=chormatography-training&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/chormatography-training)
 [![Time-series](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Time-series&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/Time-series)
 
 [![isolation](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=isolation&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/isolation)
 [![Traffic-sign-prediction](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Traffic-sign-prediction&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/Traffic-sign-prediction)
-
-[![Dashboards-and-Reports](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Dashboards-and-Reports&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/Dashboards-and-Reports)
 
 ### 🧱 Backend, APIs & Apps
 
 [![graphql](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=graphql&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/graphql)
 [![media-house](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=media-house&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/media-house)
 
-[![NCC-map](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=NCC-map&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/NCC-map)
-[![digikey_api](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=digikey_api&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/digikey_api)
-
-[![pdf_to_html_python](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=pdf_to_html_python&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/pdf_to_html_python)
+[![NCC_Maps_Project](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=NCC_Maps_Project&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/NCC_Maps_Project)
 
 </div>
 
