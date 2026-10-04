@@ -181,36 +181,42 @@ I'm an **AI/ML Engineer & Data Scientist** based in **Dehradun, India**, buildin
 
 ---
 
-## 🏗️ How I Build
-
-```mermaid
-flowchart LR
-    A[🎤 User Voice / Text] --> B[WebRTC + LiveKit]
-    B --> C[STT Service]
-    C --> D[LLM + RAG Orchestration]
-    D --> E[(Milvus · Neo4j · DuckDB)]
-    D --> F[TTS Service]
-    F --> B
-    style D fill:#203A43,stroke:#00D4FF,color:#fff
-    style E fill:#2C5364,stroke:#00D4FF,color:#fff
-```
-
-> Independent **STT, LLM and TTS microservices** over FastAPI/WebSockets, so each part can scale and be swapped on its own.
-
----
-
 ## 📌 Featured Repositories
 
 <div align="center">
 
-[![Traffic Sign Prediction](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Traffic-sign-prediction&theme=radical)](https://github.com/Suyash-Kulashri/Traffic-sign-prediction)
-[![Time Series](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Time-series&theme=radical)](https://github.com/Suyash-Kulashri/Time-series)
+### 🤖 Generative AI, LLMs & Voice
 
-[![Isolation](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=isolation&theme=radical)](https://github.com/Suyash-Kulashri/isolation)
-[![Dashboards and Reports](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Dashboards-and-Reports&theme=radical)](https://github.com/Suyash-Kulashri/Dashboards-and-Reports)
+[![graphql-langchain](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=graphql-langchain&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/graphql-langchain)
+[![no-code-agent-bricks](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=no-code-agent-bricks&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/no-code-agent-bricks)
 
-[![DigiKey API](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=digikey_api&theme=radical)](https://github.com/Suyash-Kulashri/digikey_api)
-[![PDF to HTML](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=pdf_to_html_python&theme=radical)](https://github.com/Suyash-Kulashri/pdf_to_html_python)
+[![voice_assistant](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=voice_assistant&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/voice_assistant)
+[![Multimodal-RAG](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Multimodal-RAG&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/Multimodal-RAG)
+
+[![finetuning](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=finetuning&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/finetuning)
+[![slm-training-and-finetuning](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=slm-training-and-finetuning&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/slm-training-and-finetuning)
+
+[![llm-council](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=llm-council&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/llm-council)
+
+### 🧪 Machine Learning & Data
+
+[![chromatography-training](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=chromatography-training&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/chromatography-training)
+[![Time-series](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Time-series&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/Time-series)
+
+[![isolation](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=isolation&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/isolation)
+[![Traffic-sign-prediction](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Traffic-sign-prediction&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/Traffic-sign-prediction)
+
+[![Dashboards-and-Reports](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=Dashboards-and-Reports&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/Dashboards-and-Reports)
+
+### 🧱 Backend, APIs & Apps
+
+[![graphql](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=graphql&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/graphql)
+[![media-house](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=media-house&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/media-house)
+
+[![NCC-map](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=NCC-map&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/NCC-map)
+[![digikey_api](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=digikey_api&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/digikey_api)
+
+[![pdf_to_html_python](https://github-readme-stats.shion.dev/api/pin/?username=Suyash-Kulashri&repo=pdf_to_html_python&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364)](https://github.com/Suyash-Kulashri/pdf_to_html_python)
 
 </div>
 
@@ -220,24 +226,14 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=suyash-kulashri&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suyash-kulashri&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=suyash-kulashri&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suyash-kulashri&title_color=00D4FF&text_color=E6EDF3&icon_color=00D4FF&bg_color=0F2027&border_color=2C5364&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=suyash-kulashri&theme=radical&hide_border=false" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=suyash-kulashri&background=0F2027&border=2C5364&stroke=2C5364&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=A8C7D6&dates=A8C7D6" alt="GitHub streak" />
 
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=suyash-kulashri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
